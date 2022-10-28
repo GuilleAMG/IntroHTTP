@@ -1,0 +1,16 @@
+{
+  "name": "packagesexternos",
+  "version": "0.0.1",
+  "description": "Proyecto utilizando paquetes externos de NPM y File System (Node.js)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guillermo Munguia",
+  "license": "ISC",
+  "dependencies": {
+    "dot": "^1.1.3",
+    "dotenv": "^16.0.3",
+    "yargs": "^17.6.0"
+  }
+}
